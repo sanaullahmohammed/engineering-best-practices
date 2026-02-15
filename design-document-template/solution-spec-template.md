@@ -1,3 +1,5 @@
+<!--  Template used in a Big Company with Many Teams -->
+
 # Solution Spec Template
 
 ## Project
@@ -5,7 +7,7 @@
 - Owner : 
 - Status : 
 - Jira Theme : 
-- PRFAQ (Product Requirements FAQ) :
+- PRFAQ (Press Release FAQ) :
 - UX Spec / Figma : 
 
 ## Approvers
